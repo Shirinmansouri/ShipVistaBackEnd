@@ -9,3 +9,4 @@ namespace Plants.Domain.Model
         public string token { get; set; }
     }
 }
+ 
